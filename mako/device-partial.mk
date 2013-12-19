@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/mako/proprietary/hci_qcomm_init:system/bin/hci_qcomm_init:qcom \
     vendor/qcom/mako/proprietary/ks:system/bin/ks:qcom \
     vendor/qcom/mako/proprietary/mm-qcamera-daemon:system/bin/mm-qcamera-daemon:qcom \
-    vendor/qcom/mako/proprietary/mpdecision:system/bin/mpdecision:qcom \
     vendor/qcom/mako/proprietary/netmgrd:system/bin/netmgrd:qcom \
     vendor/qcom/mako/proprietary/nl_listener:system/bin/nl_listener:qcom \
     vendor/qcom/mako/proprietary/port-bridge:system/bin/port-bridge:qcom \

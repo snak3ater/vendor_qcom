@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/mako/proprietary/radish:system/bin/radish:qcom \
     vendor/qcom/mako/proprietary/rmt_storage:system/bin/rmt_storage:qcom \
     vendor/qcom/mako/proprietary/sensors.qcom:system/bin/sensors.qcom:qcom \
-    vendor/qcom/mako/proprietary/thermald:system/bin/thermald:qcom \
     vendor/qcom/mako/proprietary/usbhub:system/bin/usbhub:qcom \
     vendor/qcom/mako/proprietary/usbhub_init:system/bin/usbhub_init:qcom \
     vendor/qcom/mako/proprietary/v4l2-qcamera-app:system/bin/v4l2-qcamera-app:qcom \

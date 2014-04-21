@@ -191,5 +191,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/flo/proprietary/libmmstillomx.so:system/vendor/lib/libmmstillomx.so:qcom \
     vendor/qcom/flo/proprietary/liboemcamera.so:system/vendor/lib/liboemcamera.so:qcom \
     vendor/qcom/flo/proprietary/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so:qcom \
+	vendor/qcom/flo/proprietary/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so:qcom \
 
 PRODUCT_PACKAGES := libacdbloader tzapps.mdt

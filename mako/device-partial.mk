@@ -173,5 +173,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/mako/proprietary/libizat_core.so:system/vendor/lib/libizat_core.so:qcom \
     vendor/qcom/mako/proprietary/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so:qcom \
     vendor/qcom/mako/proprietary/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so:qcom \
+	vendor/qcom/mako/proprietary/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so:qcom \
 
 PRODUCT_PACKAGES := libacdbloader

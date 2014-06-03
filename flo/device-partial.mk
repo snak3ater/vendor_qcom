@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/flo/proprietary/radish:system/bin/radish:qcom \
     vendor/qcom/flo/proprietary/rmt_storage:system/bin/rmt_storage:qcom \
     vendor/qcom/flo/proprietary/sensors.qcom:system/bin/sensors.qcom:qcom \
-    vendor/qcom/flo/proprietary/thermald:system/bin/thermald:qcom \
     vendor/qcom/flo/proprietary/usbhub:system/bin/usbhub:qcom \
     vendor/qcom/flo/proprietary/usbhub_init:system/bin/usbhub_init:qcom \
     vendor/qcom/flo/proprietary/DxHDCP.cfg:system/etc/DxHDCP.cfg:qcom \

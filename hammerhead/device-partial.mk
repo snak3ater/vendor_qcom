@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/hammerhead/proprietary/rmt_storage:system/bin/rmt_storage:qcom \
     vendor/qcom/hammerhead/proprietary/sensors.qcom:system/bin/sensors.qcom:qcom \
     vendor/qcom/hammerhead/proprietary/subsystem_ramdump:system/bin/subsystem_ramdump:qcom \
-    vendor/qcom/hammerhead/proprietary/thermal-engine-hh:system/bin/thermal-engine-hh:qcom \
     vendor/qcom/hammerhead/proprietary/time_daemon:system/bin/time_daemon:qcom \
     vendor/qcom/hammerhead/proprietary/usbhub:system/bin/usbhub:qcom \
     vendor/qcom/hammerhead/proprietary/usbhub_init:system/bin/usbhub_init:qcom \
